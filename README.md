@@ -3,7 +3,7 @@ kustomize capstone project
 
 # Kustomize Capstone Project
 
-## Project Title
+## Project Title.
 
 Deploying a Web Application on Kubernetes Using Kustomize and GitHub Actions
 
